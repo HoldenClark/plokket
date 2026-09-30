@@ -1,6 +1,6 @@
 {
     "name": "plokket",
-    "version": "0.0.2",
+    "version": "v0.0.2",
     "type": "module",
     "exports": "./src/index.js",
     "dependencies": {}
