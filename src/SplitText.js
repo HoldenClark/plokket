@@ -37,7 +37,7 @@ export function splitTextAnimate({htmlElement: htmlElement, transitionDuration: 
 
     // create code point and generate val for space
     let spaceCodePoint = "0x" + parseInt(`200${inputWidthOfSpace}`); 
-    widthOfSpace = String.fromCodePoint(spaceCodePoint);
+    const widthOfSpace = String.fromCodePoint(spaceCodePoint);
    
 
 
